@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Define el color de fondo si es necesario, o usa android:color/transparent para un fondo transparente -->
+    <solid android:color="@android:color/transparent" />
+
+    <!-- Define el color y el grosor del borde -->
+    <stroke
+        android:width="2dp"
+        android:color="@color/seed" />
+
+    <!-- Define el radio de las esquinas del borde -->
+    <corners android:radius="10dp" />
+</shape>
+

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/navigation_home">
+
+    <!-- Todo: Global routes -->
+    <action
+        android:id="@+id/goToDetail"
+        app:destination="@+id/detailFragment" />
+    <action
+        android:id="@+id/got_to_auth_navigation"
+        app:destination="@id/auth_navigation"
+        app:launchSingleTop="true"
+        app:popUpTo="@id/navigation_home" />
+    <action
+        android:id="@+id/got_to_home"
+        app:destination="@id/navigation_home"
+        app:popUpTo="@id/mobile_navigation" />
+    <action
+        android:id="@+id/goToProducts"
+        app:destination="@id/popularProductsFragment" />
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.raul.quickcart.home.presentation.HomeFragment"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/navigation_cart"
+        android:name="com.raul.quickcart.cart.presentation.CartFragment"
+        tools:layout="@layout/fragment_cart">
+        <argument
+            android:name="productId"
+            app:argType="string" />
+    </fragment>
+    <fragment
+        android:id="@+id/navigation_profile"
+        android:name="com.raul.quickcart.profile.presentation.ProfileFragment"
+        tools:layout="@layout/fragment_profile">
+        <action
+            android:id="@+id/goToLanguage"
+            app:destination="@+id/languageFragment" />
+        <action
+            android:id="@+id/goToAboutUs"
+            app:destination="@+id/aboutUsFragment" />
+        <action
+            android:id="@+id/goToPrivateArea"
+            app:destination="@+id/privateAreaFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/detailFragment"
+        android:name="com.raul.quickcart.detail.presentation.DetailFragment"
+        tools:layout="@layout/fragment_detail">
+        <argument
+            android:name="productId"
+            app:argType="string" />
+    </fragment>
+    <fragment
+        android:id="@+id/popularProductsFragment"
+        android:name="com.raul.quickcart.popularProducts.presentation.PopularProductsFragment"
+        android:label="fragment_popular_products"
+        tools:layout="@layout/fragment_popular_products">
+        <argument
+            android:name="title"
+            app:argType="string"
+            app:nullable="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/aboutUsFragment"
+        android:name="com.raul.quickcart.profile.presentation.AboutUsFragment"
+        android:label="fragment_about_us"
+        tools:layout="@layout/fragment_about_us" />
+    <fragment
+        android:id="@+id/languageFragment"
+        android:name="com.raul.quickcart.profile.presentation.LanguageFragment"
+        android:label="fragment_language"
+        tools:layout="@layout/fragment_language" />
+
+    <include app:graph="@navigation/auth_navigation" />
+    <fragment
+        android:id="@+id/privateAreaFragment"
+        android:name="com.raul.quickcart.profile.presentation.PrivateAreaFragment"
+        android:label="private_area_fragment"
+        tools:layout="@layout/private_area_fragment" />
+</navigation>
