@@ -8,7 +8,7 @@
 
 |                               Home                            |                                   Resultado                                    |
 |:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
-|  <img src="https://github.com/Raurez/Image-repo-profile/blob/main/ScreenHOME.png" style="height: 50%; width:50%;"/>  |  <img src="https://i.imgur.com/lH1NBas.png" style="height: 50%; width:50%;"/>  |
+|  <img src="https://github.com/Raurez/Image-repo-profile/blob/main/Screenshot_Home.png" style="height: 50%; width:50%;"/>  |  <img src="https://i.imgur.com/lH1NBas.png" style="height: 50%; width:50%;"/>  |
 
 ### Organizador de tareas.
 
