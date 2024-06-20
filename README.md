@@ -6,24 +6,18 @@
 
 ## QuickCart in Action: Interface Previews.
 
-|                               Home                            |                                   Resultado                                    |
+|                               Home                            |                                   All products                                    |
 |:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
-|  <img src="https://github.com/Raurez/Image-repo-profile/blob/main/Screenshot_Home.png" style="height: 50%; width:50%;"/>  |  <img src="https://i.imgur.com/lH1NBas.png" style="height: 50%; width:50%;"/>  |
+|  <img src="https://github.com/Raurez/Image-repo-profile/blob/main/Screenshot_Home.png" style="height: 50%; width:50%;"/>  |  <img src="https://github.com/Raurez/Image-repo-profile/blob/main/Screenshot_PRODUCTS.png" style="height: 50%; width:50%;"/>  |
 
-### Organizador de tareas.
+|                              Product details                             |                               Añadiendo tareas                               |
+|:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
+| <img src="https://github.com/Raurez/Image-repo-profile/blob/main/Screenshot_CART_PRODUCTS.png" style="height: 50%; width:50%;"/> | <img src="https://github.com/Raurez/Image-repo-profile/blob/main/Screenshot_ADD_CART.png" style="height: 50%; width:50%;"/> |
 
 |                              Pantalla principal                              |                               Añadiendo tareas                               |
 |:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
-| <img src="https://i.imgur.com/uvVh4Q9.png" style="height: 50%; width:50%;"/> | <img src="https://i.imgur.com/GhHuj6c.png" style="height: 50%; width:50%;"/> |
-
-### Buscador de superhéroes.
+| <img src="https://github.com/Raurez/Image-repo-profile/blob/main/Screenshot_PROFILE.png" style="height: 50%; width:50%;"/> | <img src="https://github.com/Raurez/Image-repo-profile/blob/main/Screenshot_LANGUAGE.png" style="height: 50%; width:50%;"/> |
 
 |                              Pantalla principal                              |                               Añadiendo tareas                               |
 |:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
-| <img src="https://i.imgur.com/XNwTHjy.png" style="height: 50%; width:50%;"/> | <img src="https://i.imgur.com/xYOssJf.png" style="height: 50%; width:50%;"/> |
-
-### Pantalla de ajustes.
-
-|                              Pantalla principal                              |                               Añadiendo tareas                               |
-|:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
-| <img src="https://i.imgur.com/HnYQIew.png" style="height: 50%; width:50%;"/> | <img src="https://i.imgur.com/p1Yn1gt.png" style="height: 50%; width:50%;"/> |
+| <img src="https://github.com/Raurez/Image-repo-profile/blob/main/Screenshot_INTRO_AUTH.png" style="height: 50%; width:50%;"/> | <img src="https://github.com/Raurez/Image-repo-profile/blob/main/Screenshot_REGISTER.png" style="height: 50%; width:50%;"/> |
