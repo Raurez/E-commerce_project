@@ -21,14 +21,6 @@ Our mobile app is designed to offer a seamless and enjoyable shopping experience
 - 🔍 **Product Details**: Dedicated pages with detailed information, reviews, and ratings.
 - ☁️ **Infrastructure**: Built on Firebase Cloud for reliable and scalable service.
 
-### Future Plans:
-
-- 🚀 Transition to Jetpack Compose for enhanced UI and functionality.
-
-## How to Support
-
-- ⭐ Give the project a star (Star)
-
 ## QuickCart in Action: Interface Previews
 
 |                               Home                            |                                   All products                                    |
@@ -47,6 +39,14 @@ Our mobile app is designed to offer a seamless and enjoyable shopping experience
 |:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
 | <img src="https://github.com/Raurez/Image-repo-profile/blob/main/Screenshot_INTRO_AUTH.png" style="height: 50%; width:50%;"/> | <img src="https://github.com/Raurez/Image-repo-profile/blob/main/Screenshot_REGISTER.png" style="height: 50%; width:50%;"/> |
 
+### Future Plans:
+
+- 🚀 Transition to Jetpack Compose for enhanced UI and functionality.
+
+## How to Support
+
+- ⭐ Give the project a star (Star)
+  
 ## Inspiration
 
 This project was inspired by two amazing YouTube tutorials:
