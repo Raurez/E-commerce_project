@@ -29,7 +29,7 @@ Our mobile app is designed to offer a seamless and enjoyable shopping experience
 
 |                              Cart                             |                               Add credit card                              |
 |:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
-| <img src="https://github.com/Raurez/Image-repo-profile/blob/main/Screenshot_CART_PRODUCTS.png" style="height: 50%; width:50%;"/> | <img src="https://github.com/Raurez/Image-repo-profile/blob/main/Screenshot_ADD_CART.png" style="height: 50%; width:50%;"/> |
+| <img src="https://github.com/Raurez/Image-repo-profile/blob/main/Screenshot_CART_PRODUCT.png" style="height: 50%; width:50%;"/> | <img src="https://github.com/Raurez/Image-repo-profile/blob/main/Screenshot_ADD_CART.png" style="height: 50%; width:50%;"/> |
 
 |                              Profile                             |                                   Change of language                           |
 |:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
