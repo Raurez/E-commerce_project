@@ -14,7 +14,7 @@
 |:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
 | <img src="https://github.com/Raurez/Image-repo-profile/blob/main/Screenshot_CART_PRODUCTS.png" style="height: 50%; width:50%;"/> | <img src="https://github.com/Raurez/Image-repo-profile/blob/main/Screenshot_ADD_CART.png" style="height: 50%; width:50%;"/> |
 
-|                              Pantalla principal                              |                               Añadiendo tareas                               |
+|                              Profile                             |                                   Change of language                           |
 |:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
 | <img src="https://github.com/Raurez/Image-repo-profile/blob/main/Screenshot_PROFILE.png" style="height: 50%; width:50%;"/> | <img src="https://github.com/Raurez/Image-repo-profile/blob/main/Screenshot_LANGUAGE.png" style="height: 50%; width:50%;"/> |
 
