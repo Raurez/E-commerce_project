@@ -18,6 +18,6 @@
 |:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
 | <img src="https://github.com/Raurez/Image-repo-profile/blob/main/Screenshot_PROFILE.png" style="height: 50%; width:50%;"/> | <img src="https://github.com/Raurez/Image-repo-profile/blob/main/Screenshot_LANGUAGE.png" style="height: 50%; width:50%;"/> |
 
-|                              Pantalla principal                              |                               Añadiendo tareas                               |
+|                              Introductory view                              |                               Register                               |
 |:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
 | <img src="https://github.com/Raurez/Image-repo-profile/blob/main/Screenshot_INTRO_AUTH.png" style="height: 50%; width:50%;"/> | <img src="https://github.com/Raurez/Image-repo-profile/blob/main/Screenshot_REGISTER.png" style="height: 50%; width:50%;"/> |
