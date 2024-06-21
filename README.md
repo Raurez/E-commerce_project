@@ -21,3 +21,11 @@
 |                              Introductory view                              |                               Register                               |
 |:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
 | <img src="https://github.com/Raurez/Image-repo-profile/blob/main/Screenshot_INTRO_AUTH.png" style="height: 50%; width:50%;"/> | <img src="https://github.com/Raurez/Image-repo-profile/blob/main/Screenshot_REGISTER.png" style="height: 50%; width:50%;"/> |
+
+## Inspiration 
+
+This project was inspired by two amazing YouTube tutorials:
+- [App interface](https://www.youtube.com/watch?v=u2cA5Ml56eg&t=5s&ab_channel=UiLoverAndroid) 🎥
+- [Credit card interface](https://www.youtube.com/watch?v=eNYRsaCVWAg&t=829s&ab_channel=StackMobile) 🎥
+
+Special thanks to these content creators for their insightful tutorials and guidance.
