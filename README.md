@@ -50,7 +50,7 @@ Our mobile app is designed to offer a seamless and enjoyable shopping experience
 ## Inspiration
 
 This project was inspired by two amazing YouTube tutorials:
-- [App interface](https://www.youtube.com/watch?v=u2cA5Ml56eg&t=5s&ab_channel=UiLoverAndroid) 🎥
-- [Credit card interface](https://www.youtube.com/watch?v=eNYRsaCVWAg&t=829s&ab_channel=StackMobile) 🎥
+- 🎥 [App interface](https://www.youtube.com/watch?v=u2cA5Ml56eg&t=5s&ab_channel=UiLoverAndroid)
+- 🎥 [Credit card interface](https://www.youtube.com/watch?v=eNYRsaCVWAg&t=829s&ab_channel=StackMobile)
 
 Special thanks to these content creators for their insightful tutorials and guidance.
