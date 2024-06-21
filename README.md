@@ -10,7 +10,7 @@
 |:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
 |  <img src="https://github.com/Raurez/Image-repo-profile/blob/main/Screenshot_Home.png" style="height: 50%; width:50%;"/>  |  <img src="https://github.com/Raurez/Image-repo-profile/blob/main/Screenshot_PRODUCTS.png" style="height: 50%; width:50%;"/>  |
 
-|                              Product details                             |                               Añadiendo tareas                               |
+|                              Cart                             |                               Add credit card                              |
 |:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
 | <img src="https://github.com/Raurez/Image-repo-profile/blob/main/Screenshot_CART_PRODUCTS.png" style="height: 50%; width:50%;"/> | <img src="https://github.com/Raurez/Image-repo-profile/blob/main/Screenshot_ADD_CART.png" style="height: 50%; width:50%;"/> |
 
