@@ -1,2 +1,1 @@
 # QuickCart
- Proyecto You
